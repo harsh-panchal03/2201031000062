@@ -1,0 +1,66 @@
+.trophy-1-icon4 {
+  width: 60px;
+  position: relative;
+  height: 60px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.crafted-from-top4,
+.high-quality4 {
+  position: relative;
+  line-height: 150%;
+  font-weight: 600;
+}
+.crafted-from-top4 {
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  color: var(--color-gray-3);
+}
+.text16,
+.trophy-1-parent2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 2px 0;
+}
+.trophy-1-parent2 {
+  flex-direction: row;
+  align-items: center;
+  gap: 0 10px;
+}
+.frame-child2 {
+  width: 85px;
+  position: relative;
+  height: 85px;
+  display: none;
+}
+.feature-parent,
+.feature4,
+.guarantee-parent2 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.guarantee-parent2 {
+  justify-content: center;
+  gap: 0 10px;
+}
+.feature-parent,
+.feature4 {
+  width: 1334px;
+  justify-content: space-between;
+}
+.feature-parent {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-linen-100);
+  height: 270px;
+  flex-direction: column;
+  padding: var(--padding-81xl) 0;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--color-gray-100);
+  font-family: var(--font-poppins);
+}

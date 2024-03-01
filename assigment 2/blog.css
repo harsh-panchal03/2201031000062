@@ -1,0 +1,768 @@
+.header-inner {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-10xs);
+  background-color: var(--color-white1);
+}
+.about4,
+.contact7,
+.home6,
+.shop4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+}
+.about4,
+.contact7,
+.shop4 {
+  left: 28.6%;
+}
+.about4,
+.contact7 {
+  left: 55.81%;
+}
+.contact7 {
+  left: 84.65%;
+}
+.home-parent3 {
+  position: absolute;
+  height: 18.75%;
+  width: 33.44%;
+  top: 41.02%;
+  right: 31.49%;
+  bottom: 40.23%;
+  left: 35.07%;
+}
+.akar-iconsheart2,
+.akar-iconssearch2,
+.ant-designshopping-cart-outli-icon2,
+.mdiaccount-alert-outline-icon2 {
+  position: absolute;
+  height: 21.88%;
+  width: 2.18%;
+  top: 39.45%;
+  right: 17.03%;
+  bottom: 38.67%;
+  left: 80.79%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.akar-iconsheart2,
+.akar-iconssearch2,
+.ant-designshopping-cart-outli-icon2 {
+  right: 11.35%;
+  left: 86.47%;
+}
+.akar-iconsheart2,
+.ant-designshopping-cart-outli-icon2 {
+  right: 5.68%;
+  left: 92.15%;
+}
+.ant-designshopping-cart-outli-icon2 {
+  right: 0;
+  left: 97.82%;
+}
+.image-107-icon2 {
+  position: absolute;
+  top: 15px;
+  left: 93px;
+  border-radius: var(--br-74xl);
+  width: 127.5px;
+  height: 89.7px;
+  object-fit: contain;
+}
+.image-107-frame {
+  width: 219px;
+  height: 128px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.image-107-frame,
+.skinclinic2 {
+  position: relative;
+}
+.frame-parent3 {
+  position: absolute;
+  width: 14.39%;
+  top: calc(50% - 64px);
+  right: 85.61%;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 0 5px;
+}
+.mdiaccount-alert-outline-container {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  font-size: var(--font-size-15xl);
+  color: var(--color-black);
+  font-family: var(--font-montserrat);
+}
+.group-parent11 {
+  position: absolute;
+  height: 128%;
+  width: 89.31%;
+  top: -14.5%;
+  right: 6.94%;
+  bottom: -13.5%;
+  left: 3.75%;
+}
+.group-child11,
+.header2 {
+  position: absolute;
+  width: 1440px;
+}
+.header2 {
+  top: 0;
+  left: 0;
+  height: 100px;
+  color: var(--color-indianred);
+}
+.group-child11 {
+  top: calc(50% - 158px);
+  left: calc(50% - 720px);
+  height: 316px;
+  object-fit: cover;
+}
+.blog1 {
+  position: absolute;
+  top: 61px;
+  left: 0;
+  font-weight: 500;
+}
+.meubel-house-logos-05-icon1 {
+  position: absolute;
+  top: 0;
+  left: 15px;
+  width: 77px;
+  height: 77px;
+  object-fit: cover;
+}
+.blog-parent {
+  position: absolute;
+  top: 61px;
+  left: 642px;
+  width: 107px;
+  height: 133px;
+}
+.blog2,
+.home7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 500;
+}
+.blog2 {
+  left: 80px;
+  font-weight: 300;
+}
+.dashiconsarrow-down-alt21 {
+  position: absolute;
+  top: 2px;
+  left: 54px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+  object-fit: contain;
+}
+.home-parent4 {
+  position: absolute;
+  top: 195px;
+  left: 635px;
+  width: 115px;
+  height: 24px;
+  font-size: var(--font-size-base);
+}
+.rectangle-parent3 {
+  position: absolute;
+  top: calc(50% - 1890.5px);
+  left: calc(50% - 695px);
+  width: 1440px;
+  height: 316px;
+  font-size: var(--font-size-29xl);
+}
+.footer-inner {
+  position: absolute;
+  height: 100.1%;
+  width: 100%;
+  top: -0.1%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-white1);
+  border-top: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+}
+.ranip-ahmedabad2 {
+  margin: 0;
+}
+.ranip-ahmedabad-gujarat-container2 {
+  position: absolute;
+  width: 25.15%;
+  top: 27.56%;
+  left: 0.18%;
+  color: var(--color-darkgray-100);
+  display: inline-block;
+}
+.collage-buddy2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-5xl);
+}
+.about5,
+.contact8,
+.shop5 {
+  position: absolute;
+  top: 30.04%;
+  left: 0;
+  font-weight: 500;
+}
+.about5,
+.contact8 {
+  top: 60.09%;
+}
+.contact8 {
+  top: 89.7%;
+}
+.home-parent5 {
+  position: absolute;
+  height: 74.68%;
+  width: 97.06%;
+  top: 25.32%;
+  right: 0;
+  bottom: 0;
+  left: 2.94%;
+}
+.group-parent15,
+.links2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.links2 {
+  font-weight: 500;
+  color: var(--color-darkgray-100);
+}
+.group-parent15 {
+  height: 100%;
+  width: 19.32%;
+  right: 80.68%;
+  bottom: 0;
+}
+.privacy-policies2,
+.returns2 {
+  position: absolute;
+  top: 42.94%;
+  left: 0;
+  font-weight: 500;
+}
+.privacy-policies2 {
+  top: 85.28%;
+}
+.help-container,
+.payment-options-container {
+  position: absolute;
+  height: 67.36%;
+  width: 100%;
+  top: 32.64%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  color: var(--color-black);
+}
+.help-container {
+  height: 77.56%;
+  width: 39.77%;
+  top: 0;
+  bottom: 22.44%;
+  left: 60.23%;
+  color: var(--color-darkgray-100);
+}
+.group-parent14 {
+  height: 100%;
+  width: 49.58%;
+  right: 50.42%;
+  bottom: 0;
+}
+.enter-your-email2,
+.group-child12,
+.group-parent14 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.group-child12 {
+  height: 8.33%;
+  width: 70.63%;
+  top: 95.83%;
+  right: 29.72%;
+  bottom: -4.17%;
+  left: -0.35%;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+}
+.subscribe2 {
+  position: absolute;
+  top: 0;
+  left: 73.78%;
+  font-weight: 500;
+  color: var(--color-black);
+}
+.group-child13 {
+  position: absolute;
+  height: 8.33%;
+  width: 26.92%;
+  top: 95.83%;
+  right: -0.35%;
+  bottom: -4.17%;
+  left: 73.43%;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+}
+.enter-your-email-address-container {
+  position: absolute;
+  height: 23.76%;
+  width: 100%;
+  top: 76.24%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  font-size: var(--font-size-sm);
+}
+.newsletter-container {
+  position: absolute;
+  height: 32.37%;
+  width: 40.28%;
+  top: 0.64%;
+  right: 0;
+  bottom: 66.99%;
+  left: 59.72%;
+  color: var(--color-darkgray-100);
+}
+.group-parent13 {
+  position: absolute;
+  height: 100%;
+  width: 62.67%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 37.33%;
+}
+.group-child14,
+.ranip-ahmedabad-gujarat-india-container {
+  position: absolute;
+  height: 72.9%;
+  width: 91.37%;
+  top: 0;
+  right: 8.47%;
+  bottom: 27.1%;
+  left: 0.16%;
+}
+.group-child14 {
+  height: 1.69%;
+  width: 100.08%;
+  top: -0.85%;
+  right: -0.04%;
+  bottom: 99.15%;
+  left: -0.04%;
+  border-top: 1px solid var(--color-gainsboro);
+  box-sizing: border-box;
+}
+.collage-buddy-all2 {
+  position: absolute;
+  top: 59.32%;
+  left: 0.16%;
+}
+.group-parent12,
+.line-container {
+  position: absolute;
+  height: 13.79%;
+  width: 100%;
+  top: 86.21%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.group-parent12 {
+  height: 84.75%;
+  width: 86.11%;
+  top: 7.72%;
+  right: 6.94%;
+  bottom: 7.52%;
+  left: 6.94%;
+}
+.footer2 {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 1440px;
+  height: 505px;
+}
+.group-child15 {
+  background-color: var(--color-white1);
+  width: 1440px;
+  height: 2710px;
+}
+.categories,
+.group-child15,
+.group-child16 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.group-child16 {
+  background-color: var(--color-white1);
+  width: 393px;
+  height: 537px;
+}
+.categories {
+  font-size: var(--font-size-5xl);
+  font-weight: 500;
+  color: var(--color-black);
+}
+.files,
+.pen {
+  position: absolute;
+  top: 69px;
+  left: 0;
+}
+.pen {
+  top: 134px;
+}
+.architecture,
+.mechanical,
+.technical {
+  position: absolute;
+  top: 199px;
+  left: 0;
+}
+.mechanical,
+.technical {
+  top: 264px;
+}
+.technical {
+  top: 329px;
+}
+.div4,
+.div5,
+.div6,
+.div7,
+.div8 {
+  position: absolute;
+  top: 69px;
+  left: 240px;
+}
+.div5,
+.div6,
+.div7,
+.div8 {
+  top: 134px;
+}
+.div6,
+.div7,
+.div8 {
+  top: 199px;
+}
+.div7,
+.div8 {
+  top: 264px;
+}
+.div8 {
+  top: 329px;
+}
+.categories-parent,
+.group-child17 {
+  position: absolute;
+  top: 123px;
+  left: 77px;
+  width: 251px;
+  height: 353px;
+}
+.group-child17 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-white1);
+  border: 1px solid var(--color-darkgray-100);
+  box-sizing: border-box;
+  width: 311px;
+  height: 58px;
+}
+.akar-iconssearch3 {
+  position: absolute;
+  top: 17px;
+  left: 277px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.rectangle-parent6 {
+  position: absolute;
+  top: 22px;
+  left: 41px;
+  width: 311px;
+  height: 58px;
+}
+.rectangle-parent5 {
+  position: absolute;
+  top: 84px;
+  left: 947px;
+  width: 393px;
+  height: 537px;
+  color: var(--color-darkgray-100);
+}
+.the-power-of {
+  position: absolute;
+  top: 556px;
+  left: 3px;
+  font-size: var(--font-size-11xl);
+  font-weight: 500;
+}
+.theres-a-certain {
+  position: absolute;
+  top: 613px;
+  left: 3px;
+  font-size: var(--font-size-mini);
+  line-height: 150%;
+  color: var(--color-darkgray-100);
+  text-align: justify;
+  display: inline-block;
+  width: 817px;
+}
+.admin,
+.group-child18 {
+  position: absolute;
+  top: 0;
+}
+.group-child18 {
+  left: 3px;
+  border-radius: var(--br-3xs);
+  width: 817px;
+  height: 500px;
+  object-fit: cover;
+}
+.admin {
+  left: 27px;
+}
+.dashiconsadmin-users {
+  position: absolute;
+  top: 2px;
+  left: 0;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.admin-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 80px;
+  height: 24px;
+}
+.citag-icon,
+.wood {
+  position: absolute;
+  top: 0;
+  left: 31px;
+}
+.citag-icon {
+  left: 0;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.uiscalender-icon,
+.wood-parent {
+  position: absolute;
+  top: 0;
+  left: 271px;
+  width: 78px;
+  height: 24px;
+}
+.uiscalender-icon {
+  left: 0;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.group-parent17,
+.oct-2022-parent {
+  position: absolute;
+  top: 0;
+  left: 115px;
+  width: 121px;
+  height: 24px;
+}
+.group-parent17 {
+  top: 517px;
+  left: 0;
+  width: 349px;
+  color: var(--color-darkgray-100);
+}
+.group-child19,
+.read-more {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.group-child19 {
+  top: 35.5px;
+  left: 5.5px;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 78px;
+  height: 1px;
+}
+.read-more-parent {
+  position: absolute;
+  top: 758px;
+  left: 3px;
+  width: 89px;
+  height: 36px;
+  text-align: justify;
+}
+.the-power-of-pen-and-paper-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 820px;
+  height: 794px;
+}
+.group-parent18,
+.handmade-parent {
+  position: absolute;
+  top: 0;
+  left: 271px;
+  width: 122px;
+  height: 24px;
+}
+.group-parent18 {
+  top: 517px;
+  left: 0;
+  width: 393px;
+  color: var(--color-darkgray-100);
+}
+.notebooks-for-every-occasion-parent,
+.the-perfect-personal-touch-parent {
+  position: absolute;
+  top: 848px;
+  left: 0;
+  width: 820px;
+  height: 794px;
+}
+.the-perfect-personal-touch-parent {
+  top: 1696px;
+}
+.group-child24,
+.group-parent16 {
+  position: absolute;
+  top: 106px;
+  left: 97px;
+  width: 820px;
+  height: 2490px;
+}
+.group-child24 {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--primary);
+  width: 60px;
+  height: 60px;
+}
+.div9 {
+  position: absolute;
+  top: 15px;
+  left: 27px;
+}
+.group-child25,
+.rectangle-parent7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 60px;
+  height: 60px;
+}
+.rectangle-parent7 {
+  color: var(--color-white1);
+}
+.group-child25 {
+  border-radius: var(--br-3xs);
+  background-color: var(--color-linen-200);
+}
+.div10 {
+  position: absolute;
+  top: 15px;
+  left: 24px;
+}
+.group-child27,
+.rectangle-parent8,
+.rectangle-parent9 {
+  position: absolute;
+  top: 0;
+  left: 98px;
+  width: 60px;
+  height: 60px;
+}
+.group-child27,
+.rectangle-parent9 {
+  left: 196px;
+}
+.group-child27 {
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-linen-200);
+  width: 98px;
+}
+.next {
+  position: absolute;
+  top: 15px;
+  left: 28px;
+  font-weight: 300;
+}
+.group-parent20,
+.rectangle-parent10 {
+  position: absolute;
+  top: 0;
+  left: 294px;
+  width: 98px;
+  height: 60px;
+}
+.group-parent20 {
+  top: 2650px;
+  left: 524px;
+  width: 392px;
+  font-size: var(--font-size-xl);
+}
+.rectangle-parent4 {
+  position: absolute;
+  top: 416px;
+  left: 0;
+  width: 1440px;
+  height: 2710px;
+}
+.blog {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white1);
+  height: 3981px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
