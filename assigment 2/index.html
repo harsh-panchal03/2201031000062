@@ -23,9 +23,9 @@
           <div class="group-parent">
             <div class="home-parent">
               <div class="help">Home</div>
-              <div class="shop">Shop</div>
+              <div class="shop" id="shopnev">Shop</div>
               <div class="about">About</div>
-              <div class="contact">Contact</div>
+              <div class="contact" id="contactnav">Contact</div>
             </div>
             <div class="mdiaccount-alert-outline-parent">
               <img
@@ -431,6 +431,16 @@
           window.location.href = "./single-product.html";
         });
       }
+
+      var showShopContainer = document.getElementById("shopnev");
+      if (showShopContainer) {
+        showShopContainer.addEventListener("click", function (e) {
+          window.location.href = "./shop.html";
+          console.log("called");
+        });
+      }
+     
+
       </script>
   </body>
 </html>
